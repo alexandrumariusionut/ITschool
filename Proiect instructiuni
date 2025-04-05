@@ -1,0 +1,23 @@
+Proiect instructiuni
+Sa se scrie un program care tine evidenta angajatilor dintr-o companie.
+Informatiile pe care trebuie sa le retinem despre un angajat sunt urmatoarele:
+    1) CNP
+    2) Nume
+    3) Prenume
+    4) Varsta
+    5) Salar
+    6) Departament
+    7) Senioritate (junior, mid, senior)
+
+Programul trebuie sa dispuna de un meniu care ne permite sa efectuam urmatoarele actiuni:
+    1) Adaugare angajat
+    2) Cautare angajat (dupa CNP)
+    3) Modificare date angajat (dupa CNP)
+    4) Stergere angajat
+    5) Afisare angajati
+    6) Calculator cost total salarii
+    7) Calculator cost total salarii departament
+    8) Calculator fluturas salar angajat (CAS - 10% din brut, CASS - 25% din brut, Impozit - 10% din ce a ramas)
+    9) Afisarea angajatilor (dupa senioritate)
+    10) Afisarea angajatilor (dupa departament)
+    11) Iesire
